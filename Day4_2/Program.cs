@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
-namespace Day4_1 {
+namespace Day4_2 {
 	class Program {
 		static void Main (string[] args) {
 

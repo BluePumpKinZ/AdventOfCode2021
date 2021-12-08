@@ -1,8 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.IO;
 
-namespace Day2_1 {
+namespace Day3_1 {
 	class Program {
 		static void Main (string[] args) {
 

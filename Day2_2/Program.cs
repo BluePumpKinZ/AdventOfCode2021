@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace Day2_1 {
+namespace Day2_2 {
 	class Program {
 		static void Main (string[] args) {
 			long forward = 0;

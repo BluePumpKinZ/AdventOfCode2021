@@ -1,9 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Net.Mail;
 
-namespace Day5_1 {
+namespace Day5_2 {
 	class Program {
 		static void Main (string[] args) {
 
